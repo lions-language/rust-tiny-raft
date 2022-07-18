@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "create_node",
+    "ticking",
 
     "election",
 ]
